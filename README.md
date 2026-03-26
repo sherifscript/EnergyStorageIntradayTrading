@@ -1,5 +1,4 @@
-# EnergyStorageIntradayTrading
-Using Python to create an intraday energy trading algorithm for energy storage systems with under set constraints.
+# Energy Storage Intraday Trading
 This project aims to develop a simplified trading algorithm for an energy storage system that estimates the cycle costs required to achieve a specific average daily cycle count under certain constraints. The project uses a dataset of price signals for every 15-minute intervals each a day for year. The algorithm should account for a list of things, namely:
 1. The nominal power of the storage: 2 MW
 1. The usable capacity of the storage: 4 MWh
